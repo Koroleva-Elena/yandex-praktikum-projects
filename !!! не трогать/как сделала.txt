@@ -1,0 +1,4 @@
+в винде покидала в папку qqq все что нужно
+в vs code отредакровала
+в source control описала изменения - commit
+в терминале git push -u origin main
